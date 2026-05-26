@@ -239,6 +239,7 @@
     <p>&copy; 2026 <span>TRUPER</span> — Herramientas Profesionales. Todos los derechos reservados.</p>
     <a href="login.php" class="btn-admin">Acceso Administración</a>
 </footer>
+<p>&copy; 2026 <span>TRUPER</span> – Herramientas Profesionales. Desplegado en VPS - Equipo 9.</p>
 
 </body>
 </html>
