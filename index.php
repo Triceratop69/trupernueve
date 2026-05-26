@@ -243,3 +243,4 @@
 </body>
 </html>
 <-- Crear usuario 'dev_user' con contraseña Despliegue v2 - prueba git pull -->
+<-- Crear usuario 'dev_user' con contraseña Cambio en vivo - defensa Tue May 26 04:29:20 PM UTC 2026 -->
