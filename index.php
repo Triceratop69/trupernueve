@@ -10,7 +10,7 @@
 
         body {
             font-family: 'Segoe UI', sans-serif;
-            background: #f5f5f5;
+            background: yellow;
             color: #222;
         }
 
