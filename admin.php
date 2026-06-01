@@ -342,7 +342,7 @@ $herramientas = $conn->query("SELECT * FROM herramientas ORDER BY id ASC");
     <?php endif; ?>
 
     <!-- FORMULARIO CREAR / EDITAR -->
-    <h2><?= $editar ? '✏️ Editar Herramienta' : '➕ Nueva Herramienta' ?></h2>
+    <h2><?= $editar ? '✏️ Editar Herramienta' : '➕ Nueva Herramienta Truper ' ?></h2>
 
     <div class="form-card">
         <form method="POST" action="admin.php">
